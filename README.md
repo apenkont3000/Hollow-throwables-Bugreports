@@ -10,7 +10,7 @@ Default filled textures are replaced with clean, hollow outlines, creating a min
 * ⚪ Hollow, outline-style textures
 * 🧊 Clean & minimalist aesthetic
 * 🎯 Improved visual clarity for projectiles
- *📦 Lightweight and performance-friendly
+* 📦 Lightweight and performance-friendly
 
 
 📦 Supported Items
